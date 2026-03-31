@@ -1,0 +1,9 @@
+.vscode
+*.pdb
+*.obj
+*.exe
+*.ilk
+
+heap_test
+main
+.DS_Store
